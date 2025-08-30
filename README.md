@@ -42,7 +42,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kalmadimecalim/kalmadimecalim/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
 
@@ -56,6 +56,12 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=kalmadimecalim&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+<a href="https://discord.com/users/1041665184458084372"><img src="https://lanyard.cnrad.dev/api/1041665184458084372?theme=dark&showDisplayName=true" /></a>
 </div>
 
 ###
@@ -76,9 +82,4 @@
   <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="patreon logo"  />
 </div>
 
-###
-
-<div align="center">
-<a href="https://discord.com/users/1041665184458084372"><img src="https://lanyard.cnrad.dev/api/1041665184458084372?theme=dark&showDisplayName=true" /></a>
-</div>
 ###
