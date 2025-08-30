@@ -26,19 +26,19 @@
 
 ###
 
-<h2 align="left">About Me</h2>
+<h2 align="center">About Me</h2>
 
 ###
 
-<p align="left">🚀 Full-stack developer with a focus on React and backend systems. Passionate about building scalable solutions and crafting clean, user-friendly UIs. Founder of a software group, always exploring new ways to grow and collaborate.</p>
+<p align="center">🚀 Full-stack developer with a focus on React and backend systems. Passionate about building scalable solutions and crafting clean, user-friendly UIs. Founder of a software group, always exploring new ways to grow and collaborate.</p>
 
 ###
 
-<h2 align="left">Message of the Day</h2>
+<h2 align="center">Message of the Day</h2>
 
 ###
 
-<p align="left">⚡ “Every bug is a chance to learn.”</p>
+<p align="center">⚡ “Every bug is a chance to learn.”</p>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h2 align="left">Projects I've Worked On</h2>
+<h2 align="center">Projects I've Worked On</h2>
 
 ###
 
