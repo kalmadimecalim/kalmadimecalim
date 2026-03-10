@@ -50,7 +50,7 @@
 
 ###
 
-<p align="center">· Neslihan Turan Akademi<br>· Liya Modeling<br>· W Development<br>· Aks Battery<br>· Artan Agency<br>· Roxworld Project<br>· 4F Development<br>· Nexus Modeling<br>· Whitehouse Project<br>· Turbo Shop</p>
+<p align="center">· Neslihan Turan Akademi<br>· Liya Modeling<br>· W Development<br>· Aks Battery<br>· Artan Agency<br>· Roxworld Project<br>· 4F Development<br>· Nexus Modeling<br>· Whitehouse Project<br>· Turbo Shop<br>· Dev Portal</p>
 
 ###
 
@@ -84,6 +84,6 @@
 
 ###
 
-<img src="https://cdn.discordapp.com/attachments/1268695090214342696/1411683464096256052/Cover_2.png?ex=68b58c2d&is=68b43aad&hm=53afa1ee36bfa0f476a59436d7784628d4880a543b4c641a2aaaecf81f0d1ab4&" alt="tCore" />
+<img src="https://r2.fivemanage.com/gOS5RjSSO9Mvb3KXVAVZi/woopss.png" alt="woopsgroup" />
 
 ###
