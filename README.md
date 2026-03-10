@@ -1,11 +1,5 @@
 <h1 align="center">Hey 👋 What's up?</h1>
 
-###
-
-<img src="https://r2.fivemanage.com/gOS5RjSSO9Mvb3KXVAVZi/woopss.png" alt="woopsgroup" height="450" width="450" align="center"/>
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -66,6 +60,12 @@
 
 <div align="center">
 <a href="https://discord.com/users/1041665184458084372"><img src="https://lanyard.cnrad.dev/api/1041665184458084372?theme=dark&showDisplayName=true" /></a>
+</div>
+
+###
+
+<div align="center">
+<img src="https://r2.fivemanage.com/gOS5RjSSO9Mvb3KXVAVZi/woopss.png" alt="woopsgroup" height="450" width="450"/>
 </div>
 
 ###
