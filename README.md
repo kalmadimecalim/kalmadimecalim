@@ -53,7 +53,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kalmadimecalim&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<img src="https://r2.fivemanage.com/gOS5RjSSO9Mvb3KXVAVZi/woopss.png" alt="woopsgroup" height="250" width="250"/>
 </div>
 
 ###
@@ -65,7 +65,7 @@
 ###
 
 <div align="center">
-<img src="https://r2.fivemanage.com/gOS5RjSSO9Mvb3KXVAVZi/woopss.png" alt="woopsgroup" height="450" width="450"/>
+  <img src="https://streak-stats.demolab.com?user=kalmadimecalim&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
