@@ -48,7 +48,7 @@
 
 ###
 
-<p align="center">⚡ **Woops Software Studio** · **İşletmem Basit** · **Dev Portal** · **Tools FiveM** · **Converter Pro** </p>
+<p align="center">⚡ Woops Software Studio · İşletmem Basit · Dev Portal · Tools FiveM · Converter Pro </p>
 
 ###
 
